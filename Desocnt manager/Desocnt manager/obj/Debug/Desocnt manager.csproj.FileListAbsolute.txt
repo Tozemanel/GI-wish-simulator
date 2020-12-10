@@ -1,0 +1,9 @@
+C:\Users\luisf\Documents\Escola\Apps Informaticas 12 ct1\csharp\Desocnt manager\Desocnt manager\bin\Debug\Desocnt manager.exe.config
+C:\Users\luisf\Documents\Escola\Apps Informaticas 12 ct1\csharp\Desocnt manager\Desocnt manager\bin\Debug\Desocnt manager.exe
+C:\Users\luisf\Documents\Escola\Apps Informaticas 12 ct1\csharp\Desocnt manager\Desocnt manager\bin\Debug\Desocnt manager.pdb
+C:\Users\luisf\Documents\Escola\Apps Informaticas 12 ct1\csharp\Desocnt manager\Desocnt manager\obj\Debug\Desocnt manager.csprojResolveAssemblyReference.cache
+C:\Users\luisf\Documents\Escola\Apps Informaticas 12 ct1\csharp\Desocnt manager\Desocnt manager\obj\Debug\Desocnt_manager.Form1.resources
+C:\Users\luisf\Documents\Escola\Apps Informaticas 12 ct1\csharp\Desocnt manager\Desocnt manager\obj\Debug\Desocnt_manager.Properties.Resources.resources
+C:\Users\luisf\Documents\Escola\Apps Informaticas 12 ct1\csharp\Desocnt manager\Desocnt manager\obj\Debug\Desocnt manager.csproj.GenerateResource.Cache
+C:\Users\luisf\Documents\Escola\Apps Informaticas 12 ct1\csharp\Desocnt manager\Desocnt manager\obj\Debug\Desocnt manager.exe
+C:\Users\luisf\Documents\Escola\Apps Informaticas 12 ct1\csharp\Desocnt manager\Desocnt manager\obj\Debug\Desocnt manager.pdb
